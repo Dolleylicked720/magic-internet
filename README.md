@@ -83,6 +83,22 @@ proxy, network, connectivity, internet tools, proxy resources, network tools, cl
 
 ---
 
+## 📌 中文说明（简要）
+
+本项目基于个人使用经验，对部分网络连接资源与工具进行整理，仅供参考。
+
+- 所有信息来自公开网络  
+- 价格与套餐以官网实时内容为准  
+- 不对任何服务的稳定性或可用性作出保证  
+
+⚠️ 注意：
+
+- 本项目不提供任何使用指导或访问方式  
+- 请根据自身情况自行判断与选择  
+- 请遵守当地法律法规  
+
+---
+
 ## ⭐ Support
 
 If you find this project helpful, feel free to give it a star ⭐
